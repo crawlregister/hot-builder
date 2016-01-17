@@ -1,15 +1,15 @@
 {
-  "name": "hot-builder",
-  "description": "CLI tool for building custom Handsontable package",
-  "homepage": "http://handsontable.com/",
+  "name": "hot-builder-cg",
+  "description": "customised hot builder",
+  "homepage": "",
   "bugs": {
-    "url": "https://github.com/handsontable/hot-builder/issues"
+    "url": "https://github.com/crawlregister/hot-builder-cg/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/handsontable/hot-builder.git"
+    "url": "https://github.com/crawlregister/hot-builder-cg.gitgit"
   },
-  "author": "Handsoncode <hello@handsontable.com>",
+  "author": "crawlregister <crawlregister@gmail.com>",
   "version": "0.4.1",
   "main": "./lib/builder.js",
   "bin": "./bin/hot-builder",
@@ -31,7 +31,7 @@
     "event-stream": "^3.3.2",
     "extend": "^3.0.0",
     "glob": "^5.0.15",
-    "handsontable": "git://github.com/handsontable/handsontable",
+    "handsontable": "git://github.com/crawlregister/hot-cg",
     "inherits": "^2.0.1",
     "inquirer": "^0.11.0",
     "minimist": "^1.2.0",
