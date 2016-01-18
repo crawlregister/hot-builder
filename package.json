@@ -10,7 +10,7 @@
     "url": "https://github.com/crawlregister/hot-builder-cg.git"
   },
   "author": "crawlregister <crawlregister@gmail.com>",
-  "version": "0.4.1",
+  "version": "10.4.1",
   "main": "./lib/builder.js",
   "bin": "./bin/hot-builder",
   "keywords": [
